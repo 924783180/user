@@ -31,5 +31,6 @@ module.exports = {
         ]
       }
     }
-  }
+  },
+  productionSourceMap: true // TODO : 打包时是否生成.map文件，开发时为true，上线打包需要设置成false
 };

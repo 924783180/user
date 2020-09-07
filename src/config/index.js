@@ -4,6 +4,7 @@
  * @description：用于系统配置和声明常量
  */
 export const setter = {
+  version: 'V0.0.1-20200907', //版本号
   interceptor : false, //是否开启未登入拦截
   //自定义请求字段
   request : {

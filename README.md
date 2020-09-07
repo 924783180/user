@@ -42,6 +42,6 @@ npm run build
  - main.js 入口js文件
  - vue.config.js webpack配置文件
 
-## @
- 
- - 表示项目文件中的src文件夹
+
+ # V0.0.1-20200907
+   - 创建项目

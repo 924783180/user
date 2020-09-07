@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11ea4c43-c646-4dcb-b531-b47491100652" name="Default Changelist" comment="" />
+    <list default="true" id="11ea4c43-c646-4dcb-b531-b47491100652" name="Default Changelist" comment="创建项目">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hAImiJDyb7iAuNBhhHTcOdeBFT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,13 +41,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cc_practice\2020\9-7\user" />
+      <recent name="D:\cc_practice\2020\9-7\user\css" />
+      <recent name="D:\cc_practice\2020\9-7\user\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\cc_practice\2020\9-7\user\images\home" />
       <recent name="D:\cc_practice\2020\9-7\user" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\cc_practice\2020\9-7\user\css" />
-      <recent name="D:\cc_practice\2020\9-7\user\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,16 +61,45 @@
       <updated>1599447630883</updated>
       <workItem from="1599447631936" duration="1256000" />
       <workItem from="1599449027960" duration="2362000" />
+      <workItem from="1599466319966" duration="521000" />
     </task>
+    <task id="LOCAL-00001" summary="创建项目">
+      <created>1599466613937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599466613937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建项目" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599466787026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599466787026" />
     <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1599466316787">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599466316787" />
+    <state x="2752" y="417" key="Github.ShareDialog" timestamp="1599466481390">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2752" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599466481390" />
+    <state x="2712" y="221" key="Github.UntrackedFilesDialog" timestamp="1599466490383">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2712" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599466490383" />
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599466638372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599466638372" />
   </component>
 </project>
