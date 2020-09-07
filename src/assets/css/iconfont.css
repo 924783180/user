@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'my-icon';
+  src: url('./iconfont.ttf') format('truetype');
+}
+.my-icon {
+  font-family: 'my-icon', serif;
+}
+.my-icon-password:before {
+  content: "\e7eb";
+}
+.my-icon-username:before {
+  content: "\e639";
+}
+
