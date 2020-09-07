@@ -1,6 +1,6 @@
 /**
  * @Name：admin 错误处理模块
- * @Author：陈晨
+ * @Author：cc
  */
 import {removeToken, endLoading} from '@/utils';
 import store from '@/store/store';

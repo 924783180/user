@@ -1,6 +1,6 @@
 /**
  * @Name：admin 状态管理器
- * @Author：陈晨
+ * @Author：cc
  */
 import Vue from 'vue'
 import Vuex from 'vuex'

@@ -1,6 +1,6 @@
 /**
  * @Name：admin 路由设置
- * @Author：陈晨
+ * @Author：cc
  */
 import Vue from 'vue'
 import Router from 'vue-router'

@@ -1,6 +1,6 @@
 /**
  * @Name：admin 工具库
- * @Author：陈晨
+ * @Author：cc
  * @description：将项目中可以复用的方法进行封装，放入库中。要求注释详细
  */
 import {setter} from '@/config';

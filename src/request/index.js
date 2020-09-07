@@ -1,6 +1,6 @@
 /**
  * @Name：admin axios请求模块
- * @Author：陈晨
+ * @Author：cc
  * @description：服务于api，统一设置axios参数
  */
 import axios from "axios";

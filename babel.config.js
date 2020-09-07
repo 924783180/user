@@ -1,6 +1,6 @@
 /**
  * @Name：admin babel配置文件
- * @Author：陈晨
+ * @Author：cc
  */
 module.exports = {
   presets: [

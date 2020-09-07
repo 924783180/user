@@ -1,6 +1,6 @@
 /**
  * @Name：admin 小图标组件
- * @Author：陈晨
+ * @Author：cc
  * @description：svg图标组件,  <svg-icon icon-class="user"/>  'user'为src/icons/svg下的文件名称
  */
 import Vue from 'vue'

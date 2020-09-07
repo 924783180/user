@@ -1,6 +1,6 @@
 /**
  * @Name：admin 系统配置模块
- * @Author：陈晨
+ * @Author：cc
  * @description：用于系统配置和声明常量
  */
 export const setter = {

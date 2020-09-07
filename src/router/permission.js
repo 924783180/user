@@ -1,6 +1,6 @@
 /**
  * @Name：admin 路由权限设置
- * @Author：陈晨
+ * @Author：cc
  */
 import router from '@/router/router'
 import store from '@/store/store'

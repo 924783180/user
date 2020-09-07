@@ -1,6 +1,6 @@
 /**
  * @Name：admin webpack配置文件
- * @Author：陈晨
+ * @Author：cc
  */
 const autoprefixer = require('autoprefixer');
 const pxtorem = require('postcss-pxtorem');
